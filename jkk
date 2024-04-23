@@ -1,0 +1,5 @@
+#include "jkk"
+
+jkk::jkk(QWidget *parent)
+    : QMainWindow{parent}
+{}
